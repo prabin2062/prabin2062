@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C-Programming,figma,Canva**
 
-- 💬 Ask me about **React
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **bhattsamir2062@gmail.com**
 
