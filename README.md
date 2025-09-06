@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bhattsamir2062@gmail.com**
 
-- ⚡ Fun fact **I think Iam funny**
+- ⚡ Fun fact **I think Iam little bit funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
