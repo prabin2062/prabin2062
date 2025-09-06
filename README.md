@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **C-Programming-5th-Batch-FWUSOE**
 
-- 🌱 I’m currently learning **C-Programming,figma,Canva**
+- 🌱 I’m currently learning **C-Programming,C++ Programming, figma,Canva**
 
 - 💬 Ask me about **React**
 
